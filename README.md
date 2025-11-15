@@ -1,8 +1,8 @@
-# 📊 Sales Report Data Analysis
+# Sales Report Data Analysis
 
 This project provides a comprehensive analysis of sales data using **Power BI** and **Python**. The goal is to extract actionable business insights related to revenue, profitability, customer behavior, product performance, and regional trends.
 
-## 🔍 Project Overview
+##  Project Overview
 
 The analysis is divided into three key areas:
 
@@ -38,7 +38,7 @@ Visualizations:
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 | File Name | Description |
 |----------|-------------|
@@ -49,7 +49,7 @@ Visualizations:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI** – Dashboard creation and visualization
 - **Python** – Data preprocessing and analysis (pandas, matplotlib, etc.)
@@ -57,7 +57,7 @@ Visualizations:
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - California contributes the highest revenue (~19.5%).
 - The West region has both the highest revenue and highest profit margin.
@@ -66,10 +66,10 @@ Visualizations:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions or collaboration, feel free to reach out via [GitHub](https://github.com/snehavarshney70).
 
 ---
 
-> 🚀 This project helps business stakeholders understand sales dynamics, optimize product strategy, and enhance profitability through data-driven decision-making.
+>  This project helps business stakeholders understand sales dynamics, optimize product strategy, and enhance profitability through data-driven decision-making.
